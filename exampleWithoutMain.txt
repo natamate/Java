@@ -1,13 +1,28 @@
+
+
 package pl.edu.agh.kis;
+
 /**
- * To jest wygenerowana automatycznie klasa x
- *
- */
+
+* To jest wygenerowana automatycznie klasa x
+
+*
+
+*/
+
 public class x {
-    /**
-     * Domyslny konstruktor klasy x
-     */
-    public x() {
-        // metoda wygenerowana - nalezy uzupelnic implementacje
-    }
+
+/**
+
+* Domyslny konstruktor klasy x
+
+*/
+
+public x() {
+
+// metoda wygenerowana - nalezy uzupelnic implementacje
+
 }
+
+}
+
