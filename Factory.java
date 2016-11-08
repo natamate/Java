@@ -143,9 +143,10 @@ public class Factory{
 			} 
 		
 		br.close(); 
+		showResult();
 		}catch(Exception e){ 
 			System.out.println("Niepowodzenie"); 
 		} 
-		showResult();
+		//showResult();
 	}
 }
